@@ -1,1 +1,1 @@
-fix: downgrade python version to 3.10.13 for imghdr
+python-3.10.13
